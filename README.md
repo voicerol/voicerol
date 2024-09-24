@@ -4,7 +4,7 @@
 
 -  I live in Uzbekistan 🇺🇿
 -  I'm studying the core program of school 2️⃣1️⃣
--  I'm a beginner programmer who is looking for his way in IT 👾
+-  I'm a programmer who is looking for his path in IT 👾
 
 ## My Skills
 
